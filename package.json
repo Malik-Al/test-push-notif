@@ -1,0 +1,18 @@
+{
+  "name": "faribase-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-youtube",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "firebase": "^9.7.0",
+    "firebase-admin": "^10.1.0"
+  }
+}
